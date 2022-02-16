@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Time Tick</string>
+    <string name="reg">Реєстрація</string>
+    <string name="cans">Відміна</string>
+</resources>
